@@ -1,4 +1,6 @@
-img {
-    max-width: 200px;
-    height: auto;
+.logo
+{
+    display: flex;
+    width: 1200px;
+    height: 800px;
 }
