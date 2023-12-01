@@ -1,6 +1,42 @@
-.logo
-{
-    display: flex;
-    width: 1200px;
-    height: 800px;
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&display=swap');
+
+  *{
+    font-family: 'Poppins', sans-serif;
+  }
+
+.container-img {
+    text-align: center;
+    width: 100%;
+}
+
+.logo {
+    justify-content: center;
+}
+
+p {
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: justify;
+}
+.container2-img {
+    text-align: center;
+    width: 100%;
+}
+
+.final{
+    justify-content: center;
+}
+
+.ponte {
+    text-align: center;
+    width: 100%;
+}
+
+.foto{
+    justify-content: center;
+}
+
+.escola{
+font-weight: 1000;
+text-align: center;
 }
